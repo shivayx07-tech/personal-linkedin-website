@@ -33,7 +33,7 @@ export default function Skills() {
               { title: "HTML", desc: "Expertise in structuring content for the web." },
               { title: "CSS", desc: "Styling and layout mastery for responsive design." },
               { title: "SQL", desc: "Database management and querying for data retrieval." },
-              { title: "Python", desc: "Scripting and data manipulation for analytical tasks." },
+              { title: "Java", desc: "Object-oriented programming for building robust and scalable applications." },
               { title: "Power BI", desc: "Developing interactive dashboards and data visualizations." }
             ].map((skill, i) => (
               <motion.div
@@ -72,7 +72,7 @@ export default function Skills() {
             {[
               { title: "C++", desc: "Strong foundation in object-oriented programming and system-level development.", icon: <Code2 size={24} /> },
               { title: "DSA", desc: "Proficient in complex algorithms and data structures for efficient problem-solving.", icon: <LineChart size={24} /> },
-              { title: "Python", desc: "Versatile language used for scripting, data analysis, and machine learning applications.", icon: <TerminalSquare size={24} /> }
+              { title: "Java", desc: "Powerful, object-oriented language for enterprise-grade software and robust backend systems.", icon: <TerminalSquare size={24} /> }
             ].map((lang, i) => (
               <motion.div
                 key={lang.title}

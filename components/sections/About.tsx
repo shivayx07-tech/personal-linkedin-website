@@ -48,7 +48,7 @@ export default function About() {
               <BarChart3 className="w-10 h-10 text-neon-cyan" strokeWidth={1.5} />
               <h3 className="text-xl font-medium text-white">Data Analytics & Modeling</h3>
               <p className="text-white/60 leading-relaxed font-light">
-                Proficient in analytical techniques, using tools like Python and Power BI for complex data modeling.
+                Proficient in analytical techniques, using tools like Java and Power BI for complex data modeling.
               </p>
             </motion.div>
           </div>

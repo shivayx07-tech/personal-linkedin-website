@@ -9,7 +9,7 @@ const projects = [
   {
     title: "Intelligence Dashboard",
     description: "A high-performance Business Intelligence dashboard transforming raw data streams into real-time strategic insights.",
-    tech: ["Power BI", "SQL", "Python"],
+    tech: ["Power BI", "SQL", "Java"],
     github: "#",
     live: "#",
   },
@@ -21,9 +21,9 @@ const projects = [
     live: "#",
   },
   {
-    title: "Predictive Analytics Engine",
-    description: "Machine learning pipeline analyzing historical trends to forecast future outcomes with high precision.",
-    tech: ["Python", "Pandas", "Scikit-Learn"],
+    title: "Enterprise Backend System",
+    description: "Scalable microservices architecture designed for high-concurrency enterprise environments, ensuring data integrity and performance.",
+    tech: ["Java", "Spring Boot", "MySQL"],
     github: "#",
     live: "#",
   },
