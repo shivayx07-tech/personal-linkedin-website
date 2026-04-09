@@ -5,6 +5,7 @@ import { motion, useScroll, useSpring } from "framer-motion";
 import Hero from "@/components/sections/Hero";
 import About from "@/components/sections/About";
 import Skills from "@/components/sections/Skills";
+import Mindset from "@/components/sections/Mindset";
 import Projects from "@/components/sections/Projects";
 import Contact from "@/components/sections/Contact";
 
@@ -34,6 +35,7 @@ export default function Home() {
       <Hero />
       <About />
       <Skills />
+      <Mindset />
       <Projects />
       <Contact />
       
